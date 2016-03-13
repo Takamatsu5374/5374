@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
 燃やせるごみ,,,img/moyasanai02.svg,#733b96
-破砕ゴミ（有害ごみ）,,,img/shigen02.svg,#77ae1f
+破砕ゴミ,,,img/shigen02.svg,#77ae1f
 プラスチック容器包装,,,img/moyasu02.svg,#ea3b13
 缶・びん・ペットボトル,,,img/bin02.svg,#2dc7aa
 紙・布,,,img/bin02.svg,#2dc7aa
